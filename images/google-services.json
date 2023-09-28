@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543806609137",
+    "project_id": "explorx-58119",
+    "storage_bucket": "explorx-58119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543806609137:android:34d6b551bce15ee0c1bb50",
+        "android_client_info": {
+          "package_name": "com.example.unknown_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHtbmX8IUSiXXXQlgm7Lt_0GJHaBoPdPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
